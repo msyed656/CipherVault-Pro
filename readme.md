@@ -82,7 +82,7 @@ python -m streamlit run app.py
 
 ## 📸 Project Preview
 
-![CipherVault Screenshot](assets/ciphervault.png)             
+![CipherVault Screenshot](assets/ciphervault.png)           
 
 ---
 
