@@ -79,8 +79,6 @@ python -m streamlit run app.py
 
 # 📸 Project Preview
 
-## 📸 Project Preview
-
 ![CipherVault Screenshot](assets/ciphervault.png)           
 
 ---
