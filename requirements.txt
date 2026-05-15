@@ -1,0 +1,5 @@
+streamlit
+cryptography
+pypdf
+python-docx
+pillow
