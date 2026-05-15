@@ -80,7 +80,9 @@ python -m streamlit run app.py
 
 # 📸 Project Preview
 
-Add screenshots here after deployment.
+## 📸 Project Preview
+
+![CipherVault Screenshot](assets/ciphervault.png)             
 
 ---
 
