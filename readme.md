@@ -2,8 +2,7 @@
 
 CipherVault Pro is a modern AES-powered file and text encryption platform built with Python and Streamlit.
 
-🚀 Live Demo:
-https://ciphervault-pro-vgjzerqys4sgxr78n3a8
+Live Demo: https://ciphervault-pro-vgjzerqys4sgxr78n3a8ak.streamlit.app/
 
 This project allows users to:
 - Encrypt and decrypt text
